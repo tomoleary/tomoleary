@@ -2,7 +2,7 @@
 
 I work on software projects for scientific machine learning, inverse problems, optimization, and so-called "outer-loop" problems constrained by parametric partial differential equations (PDEs).
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomor/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomor/)
 
 <!-- [Check out my Google Scholar here!](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en) -->
 
