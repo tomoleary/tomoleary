@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Google Scholar](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en)
+
 <!--
 **tomoleary/tomoleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
