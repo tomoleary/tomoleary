@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[Google Scholar](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en)
+I work on software projects for scientific machine learning, inverse problems, optimization, and so-called "outer-loop" problems constrained by parametric partial differential equations (PDEs).
+
+[Check out my Google Scholar here!](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en)
 
 <!--
 **tomoleary/tomoleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
