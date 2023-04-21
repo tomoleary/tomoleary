@@ -2,7 +2,9 @@
 
 I work on software projects for scientific machine learning, inverse problems, optimization, and so-called "outer-loop" problems constrained by parametric partial differential equations (PDEs).
 
-[Check out my Google Scholar here!](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en)
+
+<!-- [Check out my Google Scholar here!](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en) -->
 
 <!--
 **tomoleary/tomoleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
