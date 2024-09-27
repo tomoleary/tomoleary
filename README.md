@@ -6,6 +6,8 @@ I work on software projects for scientific machine learning, inverse problems, o
 
 <!-- [Check out my Google Scholar here!](https://scholar.google.com/citations?user=tEvw5mgAAAAJ&hl=en) -->
 
+[Technical note accompaniment for Babuška talk](https://github.com/tomoleary/notes/blob/main/babuska_24/babuska_note.pdf)
+
 <!--
 **tomoleary/tomoleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
